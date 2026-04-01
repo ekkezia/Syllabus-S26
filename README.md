@@ -60,7 +60,7 @@ This studio course introduces students to the culture and practice of open sourc
 - [Worms, Butterflies and Dandelions. Open source tools for the arts](https://medium.com/@tchoi8/worms-butterflies-and-dandelions-open-source-tools-for-the-arts-9b4dcd76a1f2) by Taeyoon Choi
 - [Processing and FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c) by Casey Reas
 - [THE TYRANNY of STRUCTURELESSNESS](https://www.jofreeman.com/joreen/tyranny.htm) by Jo Freeman aka Joreen
-- [Silicon Valley Thinks Politics Doesn’t Exist](https://032c.com/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
+- [Silicon Valley Thinks Politics Doesn’t Exist](https://magazine.032c.com/magazine/fred-turner-silicon-valley-thinks-politics-doesnt-exist) by Fred Turner
 
 ### Assignment
 
@@ -85,10 +85,6 @@ This studio course introduces students to the culture and practice of open sourc
 - [A new Code of Conduct and License for ml5.js](https://ml5js.org/blog/archive-coc-launch/)
 - [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
 - [Open Source Guide: Building Community](https://opensource.guide/building-community/)
-
-#### Assignment
-
-- TBD
 
 ## Week 4: 4/13
 
