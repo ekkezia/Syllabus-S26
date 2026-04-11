@@ -91,6 +91,9 @@ This studio course introduces students to the culture and practice of open sourc
 - [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
 - [Open Source Guide: Building Community](https://opensource.guide/building-community/)
 
+
+- Ender: [Reading Notes](https://leaflet.pub/438a66a2-296b-4c14-90ea-a65af6a09d1c)
+
 ## Week 4: 4/13
 
 ### Case Study: TBD
