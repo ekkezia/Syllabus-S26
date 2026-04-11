@@ -1,0 +1,56 @@
+# Final Project
+
+The goal of the final project is to make an open source contribution. This can be something quite small.
+
+## Options
+
+### Contribute to an existing project
+
+You can contribute to any of the open source projects covered during the course, or find one you'd like to contribute to. Contributions don't have to be code. Some ideas:
+
+- Fix or improve a documentation or reference page (e.g. [ml5.js](https://github.com/ml5js/ml5-website-v02-docsify), [p5.js](https://github.com/processing/p5.js))
+- Add or correct a translation
+- File a researched bug report
+- Contribute a dataset to [Corpora](https://github.com/dariusk/corpora)
+
+### Start your own project
+
+You can also create your own open source project. It doesn't have to be code and it doesn't have to be large. Some ideas:
+
+- An open source dataset
+- Open source design assets
+- A collection of code examples. This could be new code examples or translations of existing ones to another language or framework (for example [Nature of Code examples](https://natureofcode.com/resources/#ports-of-code-examples-to-other-languages))
+- An openly licensed curriculum, lesson plan, or tutorial
+
+If you are creating your own project, at a minimum your repository should include:
+
+- `README.md` — describe what the project is, how to use it, and how to contribute
+- `LICENSE` — choose an open source license (see [choosealicense.com](https://choosealicense.com/))
+
+## Stages
+
+### Proposal Presentations, 4/20
+
+Come to class ready to present your proposal. Before class:
+
+- If you are **contributing to an existing project:** File an issue or comment on an existing issue in the project you plan to contribute to. Write a short proposal describing what you plan to do and link to the issue below.
+- If you are **starting your own project:** Create a repository with at least a `README.md`. Write a short proposal describing what the project is and what you plan to do with it, and link to the repo below.
+
+Pull request a link to your proposal below:
+
+- Name: [Title](url)
+
+### Week 6: Development Studio, 4/27
+
+Work session. Come with progress to share and questions to discuss.
+
+### Week 7: Presentations, 5/4
+
+Present your contribution to the class. In addition to the presentation, submit a written reflection:
+
+- Describe your open source contribution.
+- How did your idea change from your initial proposal?
+- What did you learn?
+- How did you get feedback on your contribution?
+- Do you plan to continue working on this?
+- How do you feel about contributing to open source in the future?

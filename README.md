@@ -97,19 +97,26 @@ This studio course introduces students to the culture and practice of open sourc
 
 ## Week 4: 4/13
 
-### Case Study: TBD
+### Case Study: [Dither Lang](https://github.com/LingDong-/dither-lang) with [Lingdong Huang](https://lingdong.works/)
 
-### Case Study: TBD
+### Case Study: [Processing](https://processing.org/) and [mewnala](https://github.com/processing/libprocessing) with [Moon Davé](https://softmoon.world/)
+
+### Code Reviews
+
+- Merge conflicts
+- Reviewing PRs
+  - Checking out a PR locally and testing
+  - Code comments and feedback
 
 ### Assignment
 
-- Propose a contribution to an open source project or a start to your own open source project. Guidelines and Details TBA.
+- Propose a contribution to an open source project or a start to your own open source project. [Full guidelines and details](final.md)
 
-## Week 5: Project Proposal Discussion, 4/20
+## Week 5: [Project Proposals](final.md), 4/20
 
-## Week 6: Project Development Studio, 4/27
+## Week 6: [Project Development Studio Time](final.md), 4/27
 
-## Week 7: Presentations, 5/4
+## Week 7: [Project Presentations](final.md), 5/4
 
 In addition to completing an open source contribution for the course and presenting it in class as a group, each student is required to write a written reflection.
 
