@@ -118,15 +118,6 @@ This studio course introduces students to the culture and practice of open sourc
 
 ## Week 7: [Project Presentations](final.md), 5/4
 
-In addition to completing an open source contribution for the course and presenting it in class as a group, each student is required to write a written reflection.
-
-- Describe your open source contribution.
-- How did your idea changed from your initial proposal?
-- What did you learn?
-- How did you get feedback on your contribution?
-- Do you plan to continue to work on this open source contribution?
-- How do you feel about contributing to open source in the future?
-
 ## Policies
 
 ### Community Guidelines
