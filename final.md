@@ -38,7 +38,7 @@ Come to class ready to present your proposal. Before class:
 
 Pull request a link to your proposal below:
 
-- Name: [Title](url)
+- Amanda Goo: [Langfuse JS + Gemini Tracing Cookbooks](https://github.com/langfuse/langfuse-docs/issues/2822)    
 
 ### 2: Development Studio, 4/27
 
