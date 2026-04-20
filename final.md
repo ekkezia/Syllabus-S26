@@ -39,6 +39,8 @@ Come to class ready to present your proposal. Before class:
 Pull request a link to your proposal below:
 
 - Name: [Title](url)
+- Althea: [Altheafinalproposal](https://docs.google.com/document/d/1R0wL39g59g8wUFMQz7Qx1LjJrNPLsvX8JmVArumSO5Q/edit?tab=t.0)
+- Sihong: [ResumeBase](https://github.com/Helena-Q1111/ResumeBase)
 
 ### 2: Development Studio, 4/27
 
